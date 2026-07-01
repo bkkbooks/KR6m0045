@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6m0045/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 肇論新疏游刃
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X54/X54n0872.xml
+    old_id: X54n0872
+hash: sha256:0a2dbb2ac401ff55d41d457184fab853fb2148903749c033461affaf387295c3
